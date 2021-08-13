@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpackbabel=self.webpackChunkwebpackbabel||[]).push([[124],{124:(e,a,b)=>{b.r(a),b.d(a,{default:()=>s});var u=b(252),c={class:"about"};const s={render:function(e,a,b,s,t,n){return(0,u.wg)(),(0,u.j4)("div",c,"我是About")}}}}]);

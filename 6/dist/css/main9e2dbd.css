@@ -1,0 +1,12 @@
+#app {
+  font-size: 24px;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-background-clip: text;
+          background-clip: text;
+}
+
+#app {
+    color: blue;
+    background-image: url(../images/bg.9d546d..png);
+}

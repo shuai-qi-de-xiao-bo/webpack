@@ -1,0 +1,1 @@
+{"version":3,"file":"css/main905858.css","mappings":"AAAA;IACI,WAAW;IACX,yDAA+B;AACnC,C","sources":["webpack://webpackbabel/./src/style.css"],"sourcesContent":["#app {\r\n    color: blue;\r\n    background-image: url(./bg.png);\r\n}"],"names":[],"sourceRoot":""}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpackbabel=self.webpackChunkwebpackbabel||[]).push([[712],{712:(e,a,n)=>{n.r(a),n.d(a,{default:()=>s});var b=n(252),c={class:"index"};const s={render:function(e,a,n,s,r,u){return(0,b.wg)(),(0,b.j4)("div",c,"我是Index")}}}}]);
