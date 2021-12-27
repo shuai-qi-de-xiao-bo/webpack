@@ -4,9 +4,11 @@
 
 #### webpack安装
 npm安装:
+```
 npm install webpack webpack-cli -g
 npm install webpack webpack-cli -D
+```
 
 #### webpack使用
-运行命令: webpack ./main.js -o ./dist --mode="production"
+运行命令: `webpack ./main.js -o ./dist --mode="production"`
 更多命令参考地址: https://webpack.docschina.org/api/cli/
