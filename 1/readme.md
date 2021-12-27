@@ -1,4 +1,4 @@
-#### babel编辑器
+### babel编辑器
 babel是一个工具链，主要用于将采用es5+的语法转换为向后兼容的语法以便能够运行与当前和旧版本的浏览器环境中。
 参考地址: [https://www.babeljs.cn/docs/](https://www.babeljs.cn/docs/)
 
