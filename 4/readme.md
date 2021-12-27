@@ -1,6 +1,6 @@
 #### 安装
-安装webpack: npm install webpack webpack-cli -D
-安装babel: npm install babel-loader @babel/core @babel/preset-env -D
+安装webpack: `npm install webpack webpack-cli -D`
+安装babel: `npm install babel-loader @babel/core @babel/preset-env -D`
 
 #### webpack.config.js配置
     module.exports = {
